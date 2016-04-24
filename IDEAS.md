@@ -10,10 +10,14 @@ IDEAS
 - is it a cult?
 - what is pizza even?
 - memes
+  - A bunch of religious/ culty iconography with shitty mspaint pizzas
+  - pizzalluminati
 
 ### Blog Ideas
 - How pizza4days was formed
 - Finding inner happiness/ confidence/ goals
+- Meditation and pizza
+- Working out and pizza
 - Pizza is love, pizza is life, pizza is goals
 - This guy is god http://www.freeimages.com/photo/tossing-pizza-1-1551480
   - https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg
@@ -24,3 +28,4 @@ IDEAS
 
 ## PIZZA
 - http://www.freeimages.com/search/pizza
+- cursor is pizza?
