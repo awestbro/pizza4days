@@ -10,7 +10,7 @@ title: Pizza4Days
 email: pizza@pizza4days.com
 description: > # this means to ignore newlines until "baseurl:"
   A place for finding inner happiness. Find your confidence. Find your goals.
-  Find your pizza4days.
+  Find your pizza4days. This site was produced with love and alcohol. But mostly alcohol.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://awestbro.github.io/pizza4days/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
