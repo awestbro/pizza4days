@@ -13,6 +13,10 @@ IDEAS
   - A bunch of religious/ culty iconography with shitty mspaint pizzas
   - pizzalluminati
 
+## Landing page
+- EVOKE SOME EMOTION
+  - https://youtu.be/J47ENHSomc8?t=52
+
 ### Blog Ideas
 - How pizza4days was formed
 - Finding inner happiness/ confidence/ goals
